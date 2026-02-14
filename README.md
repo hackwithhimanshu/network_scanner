@@ -30,6 +30,16 @@ This tool is useful for:
 
 ---
 
+## How to Use
+
+```text
+python network_scanner.py -t {iprange}
+```
+Example of ip range
+```text
+192.168.56.1/24
+```
+
 ## ⚙ How It Works
 
 1. User enters an IP range (CIDR format recommended).
